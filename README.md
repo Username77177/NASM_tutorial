@@ -1,6 +1,6 @@
 ## NASM_tutorial
 
-Это форк (этого репозитория)[https://github.com/he-mat/better_tutorial]
+Это форк [этого репозитория](https://github.com/he-mat/better_tutorial)
 
 ## Зачем?
 
